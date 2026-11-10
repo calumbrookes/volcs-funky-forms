@@ -4,9 +4,11 @@
 
 
 
-\*\*Credit to the following creators for their content which I have absorbed or modified;
+\*\*Credit to the following creators for their content which I have absorbed or modified;\*\*
 
-Moomoobeef;\*\*
+
+
+**Moomoobeef;**
 
 **https://github.com/Moomoobeef/ss14-forms-txt**
 
@@ -30,5 +32,13 @@ Moomoobeef;\*\*
 
 
 
-**Lydia on FunkyStation Discord;**
+**TrixxedHeart;**
+
+**https://github.com/TrixxedHeart/Trixxed-Forms**
+
+
+
+**88tv;**
+
+**https://github.com/88tv/Legacy-Jacent-Affairs-Paperwork**
 
