@@ -1,0 +1,31 @@
+# NT-CC-T01 Corporate Warfare Report
+                           [color=#7e1010] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                CENTRAL COMMAND RED ALERT CHANNEL[/color][/bold]
+─────────────────────────────────────────
+[bold][color=#cb0000]FLASH TRAFFIC: CORPORATE WARFARE EVENT IN PROGRESS.[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: TRANSMISSION DETAILS & MESSAGE[/bold][/head]
+[bold]TIME SENT:[/bold]
+
+[bold]PRIORITY LEVEL:[/bold]  
+[color=#cb0000][bold]OMEGA-LEVEL — MAXIMUM PRIORITY  
+(NUCLEAR OPERATIVE THREAT — IMMEDIATE CENTRAL COMMAND ATTENTION REQUIRED.)[/bold][/color]
+
+[bold]SUMMARY FOR CENTRAL COMMAND:[/bold]  
+Syndicate [color=#cb0000][bold]NUCLEAR OPERATIVES[/bold][/color] have announced intentions to [bold]DESTROY[/bold] this station.
+─────────────────────────────────────────
+[head=3][bold]SECTION B: IMMEDIATE REQUESTS[/bold][/head]
+(  ) Reinforcement Directive  
+(  ) Evacuation Authorization  
+(  ) Weapons/Armory Clearance  
+(  ) Strategic Guidance  
+(  ) Other:
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Transmission logged under Corporate Warfare Protocol 1-Ω.[/color][/italic]

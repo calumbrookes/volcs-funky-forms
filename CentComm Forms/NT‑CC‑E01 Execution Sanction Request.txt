@@ -1,0 +1,64 @@
+# NT‑CC‑E01 Execution Sanction Request
+     [color=#7e1010]                       ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               SECURITY & INTERNAL STABILITY DIVISION[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT INITIATES A [color=red]FORMAL REQUEST FOR EXECUTION SANCTION[/color] UNDER INTERSTELLAR LAW, SECTION 41-B: “TERMINATION OF HOSTILE OR COMPROMISED PERSONNEL.”[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT INFORMATION[/bold][/head]
+[bold]Name / Identification:[/bold]
+[italic][color=#7e1010]PRISONERNAME[/color] [/italic]  
+[bold]Department / Assignment:[/bold]
+[italic][color=#7e1010]PRISONERJOB[/color] [/italic]  
+[bold]Current Status:[/bold]  
+( ) Detained  
+( ) Restrained  
+( ) Sedated  
+( ) Unsecured (High Risk)
+─────────────────────────────────────────
+[head=3][bold]BASIS FOR TERMINATION[/bold][/head]
+[bold]Select all applicable corporate violations:[/bold]
+
+( ) Class-A Sabotage (Critical Infrastructure Damage)  
+( ) Lethal Assault Against NanoTrasen Personnel
+( ) Espionage or Intelligence Leakage  
+( ) Bluespace-Induced Cognitive Compromise    
+( ) Direct Violation of Command-Level Orders  
+( ) Security Charter 8F: “Irrecoverable Personnel Risk”  
+( ) Other: (Specify Here)
+
+[bold]Incident Summary:[/bold]  
+(Record all known details, including observed behavior, symptoms, hostilities, and any anomalous manifestations.)[italic][color=#7e1010]
+SUMMARY GOES HERE
+[/color] [/italic] 
+─────────────────────────────────────────
+[head=3][bold]RISK ASSESSMENT[/bold][/head]
+
+[bold]Threat Level:[/bold]  
+( ) Moderate – Containment Unstable  
+( ) Severe – Personnel Harm Likely  
+( ) Critical – Stationwide Threat  
+( ) Extreme – Reality Integrity Risk
+
+[bold]Cognitive Stability Assessment:[/bold]  
+( ) Responsive  
+( ) Unresponsive  
+( ) Incoherent  
+( ) Hostile 
+─────────────────────────────────────────
+[head=3][bold]REQUESTING OFFICER DECLARATION[/bold][/head]
+I hereby submit this request for Execution Sanction on the grounds that the subject poses a continuing and unacceptable threat to NanoTrasen personnel, assets, research integrity, operational stability, or broader interstellar corporate interests.
+
+I acknowledge that once approved, this sanction is non-reversible, non-appealable, and must be carried out in accordance with Security Protocol §12-G (“Humane Termination Procedures”) or Protocol §12-X (“Non-Humane Procedures”), as deemed appropriate by Central Command.
+─────────────────────────────────────────
+[italic]Upon approval, Security is authorized to enact termination by any method that ensures operational stability and prevents further contamination, harm, or informational leakage. Disposal of biological or mechanical remains shall follow Biohazard Containment Regulation 9-K.[/italic]
+
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized review or duplication of this document constitutes grounds for termination.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]

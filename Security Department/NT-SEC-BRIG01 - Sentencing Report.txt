@@ -1,0 +1,68 @@
+# NT-SEC-BRIG01 Sentencing Report
+[color=#cb0000]░▄▄▄▄░ [head=2] Nanotrasen Justice Department[/head]
+██▀░██ [head=3] Expedited Criminal Sentencing Report[/head]
+░▀▀▀▀░ [head=3] Duty Warden: [/head][/color]
+───────────────────────────────────
+[head=2][bold]Subject:[/bold] [color=#cb0000]NAME[/color][/head]
+───────────────────────────────────
+[bold]Nanotrasen Corporate Policy indicates that second and third offences are to be penalised by a 1.5 and 2.5 time multiplier respectively. 
+
+Indicate this on the form using numerals rather than an X in the appropriate box.[/bold]
+……………………………………………………………………………………………
+[head=2][color=#4D2E2E][bold]Offences Against The Person[/color][/bold][/head]
+[bullet]1-01 (  ) Animal Cruelty (2-5 mins) (Class II)
+[bullet]2-01 (  ) Assault (<3 mins) (Class III)
+   └ 2-01 (  ) Battery (1-3 mins) (Class III)
+   └ 2-02 (  ) Manslaughter (4-10 mins) (Class III)
+   └ 2-03 (  ) Murder (4-10 mins) (Class IV)
+[bullet]3-01 (  ) Prevention of Revival (Capital) (Class V)
+   └ 3-02 (  ) Mass Murder (Capital) (Class V)
+……………………………………………………………………………………………
+[head=2][color=#2E422E][bold]Unauthorised Posession & Theft[/color][/bold][/head]
+[bullet]1-01 (  ) Possession of restricted gear (<5 mins) (Class II)
+[bullet]2-01 (  ) Possession or use of illegal drugs (<3 mins) (Class I)
+[bullet]3-01 (  ) Restricted Weaponry (3-6 mins) (Class III)
+[bullet]4-01 (  ) Petty Theft (1-3 mins) (Class I)
+[bullet]5-01 (  ) Grand Theft (3-6 mins) (Class III)
+……………………………………………………………………………………………
+[head=2][color=#453A59][bold]Criminal Property Damage[/color][/bold][/head]
+[bullet]2-03 (  ) Destruction of Property (2-4 mins) (Class II)
+[bullet]3-03 (  ) Mass Destruction (10-15 mins) (Class III)
+[bullet]5-03 (  ) Terrorism (Capital) (Class V)
+……………………………………………………………………………………………
+[head=2][color=#641327][bold]Endangerment Of Others[/color][/bold][/head]
+[bullet]2-05 (  ) Endangerment (2-4 mins) (Class II)
+[bullet]2-05 (  ) Capital Negligence (Demotion-Perma) (Class V)
+[bullet]4-02 (  ) Kidnapping (4-10 mins) (Class IV)
+……………………………………………………………………………………………
+[head=2][color=#59563A][bold]Breaches Of Restricted Areas[/color][/bold][/head]
+[bullet]1-04 (  ) Trespass (<2 min) (Class I)
+[bullet]1-04 (  ) Secure Trespass (3-8 min) (Class III)
+……………………………………………………………………………………………
+[head=2][color=#3B4354][bold]Breaches Of The Peace[/color][/bold][/head]
+[bullet]1-03 (  ) Vandalism (<2 mins) (Class I)
+[bullet]1-07 (  ) Disturbance (<2 mins) (Class I)
+[bullet]3-07 (  ) Rioting (2-4 min) (Class II)
+[bullet]3-07 (  ) Fraud (2-5 min) (Class II)
+[bullet]3-07 (  ) Grand Fraud (5-15 min) (Class IV)
+……………………………………………………………………………………………
+[head=2][color=#593A4E][bold]Civil Disobedience[/color][/bold][/head]
+[bullet]2-00 (  ) Failure to Comply (<2 mins) (Class II)
+[bullet]3-00 (  ) Breach of Arrest (2-4 mins) (Class III)
+[bullet]4-00 (  ) Breach of Custody (2-5 mins) (Class III)
+[bullet]5-00 (  ) Refusal of Mental Shielding (Perma) (Class V)
+─────────────────────────────────────────
+[head=2]Total Sentence:
+[color=#134975][bold]XX mins[/bold][/head][/color]
+─────────────────────────────────────────
+[italic]By signing I do hereby pass this sentence on behalf of Nanotrasen Incorporated, and affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in contempt by a court of space law, or guilty of perjury under Nanotrasen Regulation 7716(c).
+─────────────────────────────────────────
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+
+
+
+
+

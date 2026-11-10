@@ -1,0 +1,20 @@
+# NT-CC-M02 Central Command Memo Transmission
+[color=#42a459]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█  █▄ █ ▀█▀    [head=3]Nanotrasen Corporation[/head]
+█  █ ▀█    █       CentComm Transmission Form[/color]
+
+                          [bold]NANOTRASEN CORPORATION
+                CENTRAL COMMAND LIAISON NETWORK[/color][/bold]
+────────────────────────────────────────
+[head=3][bold]SECTION A: TRANSMISSION DETAILS[/bold][/head]
+[bold]REPRESENTATIVE NAME:[/bold]
+[italic][color=#1b67a5]Peyton Pritchard[/color] [/italic]
+[bold]TIME SENT:[/bold]
+[italic][color=#1b67a5]00:00:00[/color] [/italic]
+────────────────────────────────────────
+[head=3][bold]SECTION B: MESSAGE CONTENT[/bold][/head]
+[color=#1b67a5][bold]SUBJECT:[/bold][/color]
+[color=#1b67a5]MESSAGE BODY:[/color]
+[italic][color=#1b67a5]Sample[/color][/italic]
+────────────────────────────────────────
+[italic][color=#aaaaaa]Transmission logged under Central Command Communications Protocol 5-C.[/color][/italic]

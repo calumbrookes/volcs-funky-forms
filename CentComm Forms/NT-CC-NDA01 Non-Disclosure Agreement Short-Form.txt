@@ -1,0 +1,50 @@
+# NT-CC-NDA01 Non-Disclosure Agreement
+                            [color=#147e10]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                DEPARTMENT OF CORPORATE SECRETS[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT IS BINDING UNDER INTERSTELLAR CORPORATE LAW, SECTION 34-C, SUB-CLAUSE 7: “PROTECTION OF INTELLECTUAL, OPERATIONAL, AND BIOSECURITY ASSETS.”[/bold]
+─────────────────────────────────────────
+[italic]By receipt, review, or implied knowledge of this document, the signatory enters into a perpetual and irrevocable non-disclosure agreement with NanoTrasen Interstellar. This agreement is effective immediately upon exposure and may only be voided by Central Command or an authorized corporate adjudicator.[/italic]
+
+[head=3][bold]COVERED INFORMATION[/bold][/head]
+This agreement applies to all classified, restricted, proprietary, anomalous, biological, biohazardous, esoteric, or cognitively compromising data encountered during the course of NanoTrasen employment, including but not limited to:
+
+• Research logs, anomalous entity data, experiment outcomes  
+• Bluespace signatures, transit telemetry, void-event records
+• Personnel, medical, psychological, or disciplinary files  
+• Security protocols, armament inventories, and command-level directives  
+• Any information whose classification exceeds the signatory’s clearance  
+• Any material designated sensitive retroactively by the Corporation.  
+─────────────────────────────────────────
+[head=3][bold]OBLIGATIONS OF THE SIGNATORY[/bold][/head]
+[bold]SUBJECT TO THIS AGREEMENT, THE SIGNATORY SHALL:[/bold]
+
+1. Refrain from disclosing any restricted, classified, or sensitive material whether obtained intentionally or through incidental exposure.  
+2. Avoid discussion of such information with any party lacking equal or superior clearance, including coworkers, external agencies, family, or personal acquaintances.  
+3. Deny the existence of this agreement, its contents, or any connected operations when questioned without valid authentication or emergency override.  
+4. Comply fully and without resistance with any memory suppression, verbal oath, behavioral conditioning, or cognitive inhibitor protocols issued alongside this agreement.  
+5. Submit to interviews, debriefings, or psychological scans as mandated by Corporate Security or Internal Stability Enforcement.
+─────────────────────────────────────────
+[head=3][bold]ENFORCEMENT & CONSEQUENCES[/bold][/head]
+Violation of this agreement constitutes a Class-C Integrity Breach under the NanoTrasen Internal Stability Enforcement Charter and is subject to the full extent of corporate authority.
+
+[bold]CONSEQUENCES MAY INCLUDE[/bold]:
+
+• Immediate termination of contract.
+• Permanent revocation of interstellar work eligibility.  
+• Civil, criminal, and financial liability.  
+• Indefinite detainment or containment procedures.  
+• Memory partitioning, cognitive restructuring, or involuntary compliance.  
+• Execution, with or without post-mortem data extraction authorization.  
+
+[italic]The nature of what you know is not your concern.  
+The extent of your silence is our command.[/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized possession, review, or recollection of this document constitutes a breach of this document.[/color][/italic]

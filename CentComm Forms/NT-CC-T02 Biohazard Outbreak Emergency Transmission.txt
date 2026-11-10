@@ -1,0 +1,42 @@
+# NT-CC-T02 Biohazard Outbreak Emergency Transmission 
+                           [color=#7e1010] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                CENTRAL COMMAND RED ALERT CHANNEL[/color][/bold]
+─────────────────────────────────────────
+[bold][color=#cb0000]FLASH TRAFFIC: BIOHAZARD OMEGA EVENT[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: TRANSMISSION DETAILS[/bold][/head]
+[bold]TIME SENT: 00:00:00[/bold]
+[bold]PRIORITY LEVEL:[/bold]  
+[color=#cb0000][bold]OMEGA-LEVEL — MAXIMUM PRIORITY  
+(BIOHAZARD OUTBREAK — IMMEDIATE CENTRAL COMMAND ACTION REQUIRED)[/bold][/color]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: THREAT DECLARATION[/bold][/head]
+[bold]CONFIRMED THREAT TYPE:[/bold]  
+(  ) Active Romerol Infection
+(  ) Biohazard Conversion Event
+(  ) Viral Infection
+
+[bold]CURRENT SITUATION SUMMARY:[/bold]  
+[italic][color=#7e1010]Brief description of outbreak progression, breach points, or containment failures.[/color][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C: EMERGENCY REQUESTS[/bold][/head]
+[bold]PRIMARY REQUEST:[/bold]  
+[color=#cb0000][bold]Deployment of an Emergency Response Team to affected station.[/bold][/color]
+
+[bold]IF ERT CANNOT BE DEPLOYED:[/bold]  
+[color=#cb0000][bold]Request IMMEDIATE DEPLOYMENT of an Emergency Response Team at Central Command for survivor reception and quarantine.[/bold][/color]
+
+[bold]ADDITIONAL REQUESTS:[/bold]
+(  ) Biohazard Containment Protocol Guidance  
+(  ) Evacuation Authorization  
+(  ) Planetary / Sector-Level Quarantine  
+(  ) Other:
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Transmission logged under Biohazard Protocol Z-Ω (Zeta-Omega).[/color][/italic]

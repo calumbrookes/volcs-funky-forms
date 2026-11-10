@@ -1,0 +1,65 @@
+# NT-IA-AUD01 Generic Audit Report
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS REPORT DOCUMENTS A FORMAL [color=#cb0000]DEPARTMENTAL AUDIT[/color] CONDUCTED UNDER CORPORATE REGULATION 4-F.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: AUDIT DETAILS[/bold][/head]
+[bold]AUDITOR NAME:[/bold]
+[bold]DEPARTMENT AUDITED:[/bold]
+[bold]TIME OF AUDIT:[/bold]
+[bold]REASON FOR AUDIT:[/bold] ( ) Routine  ( ) Complaint-Based  ( ) Incident-Based  ( ) Other:
+─────────────────────────────────────────
+[head=3][bold]SECTION B: PERSONNEL & OPERATIONS[/bold][/head]
+[bold]PERSONNEL STATUS:[/bold]  
+( ) Fully Staffed  
+( ) Understaffed  
+( ) Significantly Understaffed  
+
+[bold]OBSERVATIONS ON STAFF PERFORMANCE:[/bold]
+
+[bold]CHAIN OF COMMAND FUNCTIONALITY:[/bold]  
+( ) Effective  
+( ) Inconsistent  
+( ) Ineffective
+─────────────────────────────────────────
+[head=3][bold]SECTION C: COMPLIANCE & SAFETY[/bold][/head]
+[bold]SOP COMPLIANCE:[/bold]  
+( ) Compliant  
+( ) Minor Deviations  
+( ) Major Deviations  
+
+[bold]AREAS REQUIRING IMPROVEMENT:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: EQUIPMENT & RESOURCES[/bold][/head]
+[bold]EQUIPMENT CONDITION:[/bold]  
+( ) Operational  
+( ) Mixed  
+( ) Poor  
+
+[bold]RESOURCE MANAGEMENT (materials, budget, supplies):[/bold]
+( ) Excellent 
+( ) Meets Standard  
+( ) Ineffective
+─────────────────────────────────────────
+[head=3][bold]SECTION E: OVERALL ASSESSMENT[/bold][/head]
+[bold]GENERAL RATING:[/bold]  
+( ) Excellent  
+( ) Satisfactory  
+( ) Needs Improvement  
+( ) Critical Deficiency
+
+[bold]SUMMARY OF FINDINGS:[/bold]
+
+[bold]RECOMMENDED FOLLOW-UP ACTIONS:[/bold]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]

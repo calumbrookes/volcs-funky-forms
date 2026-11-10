@@ -1,0 +1,100 @@
+# NT-CC-OHS01 Accident In Workplace
+[color=#42a459]▀█▀░░░ [head=2] NT Internal Affairs[/head]
+▄█▄▄▀▄ [head=3] Occupational Health[/head]
+░░░█▀█ [head=3] Accident In Workplace Report [/head]
+[/color]──────────────────────────────────────────
+[color=#42a459]THIS FORM TO BE COMPLETED WHEN ANY CREW MEMBER
+IS INVOLVED IN AN ACCIDENT IN THEIR PLACE OF WORK.
+SECURITY INCIDENTS ARE NOT CONSIDERED ACCIDENTS.[/color]
+──────────────────────────────────────────
+[head=3]1. INCIDENT DETAILS[/head]
+Time of Incident:
+Location / Department:
+Exact Location:
+Type of Incident:
+(  ) Physical injury
+(  ) Chemical exposure
+(  ) Electrical injury
+(  ) Radiation exposure
+(  ) Equipment-related injury
+(  ) Other: [color=#42a459]N/A[/color]
+────────────────────────────────────
+[head=3]2. PERSONNEL INVOLVED[/head]
+Name of Injured Employee: [color=#42a459]Name Here[/color]
+Job Title / Department: [color=#42a459]Role Here[/color]
+Reporting Employee: [color=#42a459]N/A[/color]
+Witnesses: [color=#42a459]N/A[/color]
+────────────────────────────────────
+[head=3]3. DESCRIPTION OF INJURY[/head]
+Nature of Injury:
+[color=#42a459][italic]Describe the injury, affected body parts and apparent severity.[/italic][/color]
+
+Circumstances of Incident:
+[color=#42a459][italic]Describe the events leading up to the incident. Include equipment, environmental conditions and any contributing factors.[/italic][/color]
+
+Was the employee incapacitated?
+(  ) Yes
+(  ) No
+(  ) Unknown
+
+Was emergency medical treatment required?
+(  ) Yes
+(  ) No
+────────────────────────────────────
+[head=3]4. IMMEDIATE RESPONSE[/head]
+First Aid / Medical Treatment Administered:
+
+Medical Personnel Attending:
+
+Was the area or equipment secured?
+(  ) Yes
+(  ) No
+(  ) Not Applicable
+
+Was Security notified?
+(  ) Yes
+(  ) No
+────────────────────────────────────
+[head=3]5. INVESTIGATION[/head]
+Suspected Cause of Incident:
+[color=#42a459]N/A[/color]
+
+Were appropriate safety procedures followed?
+(  ) Yes
+(  ) No
+(  ) Under Investigation
+
+If no, what deficiencies in policy are relevant?:
+[color=#42a459]N/A[/color]
+
+Does this incident require further investigation?
+(  ) Yes
+(  ) No
+────────────────────────────────────
+[head=3]6. OFFICIAL OBSERVATIONS[/head]
+Recommended Corrective Actions:
+[color=#42a459]N/A[/color]
+
+Final Incident Classification:
+(  ) Minor
+(  ) Moderate
+(  ) Serious
+(  ) Critical
+
+Investigation Status:
+(  ) Pending
+(  ) In Progress
+(  ) Closed
+────────────────────────────────────
+[italic]FOR OFFICIAL USE ONLY[/italic]
+Report Reference: NT-CC-OHS01
+Filed By:
+Date Filed:
+────────────────────────────────────
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+
