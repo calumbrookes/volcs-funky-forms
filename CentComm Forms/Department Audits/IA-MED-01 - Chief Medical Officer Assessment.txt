@@ -1,0 +1,31 @@
+# IA-MED-01 Chief Medical Officer Assessment
+[color=#1b67a5]▀█▀░░░ [head=2] Chief Medical Officer Assessment[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#5b97bc]MED-01[/color] [/bold]
+░░░█▀█ [bold] Author: Peyton P Pritchard [/bold] [/color]
+
+[color=#1b67a5][head=3]Duty Chief Medical Officer:[/head][/color]
+[italic]CMO Name[/italic]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chief Medical Officer[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chief Medical Officer[/color] should be detailed in full within this document.
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#1b67a5][head=3]Chief Medical Officer[/head][/color]
+(  ) 1. The [color=#5b97bc]Chief Medical Officer[/color] carried self-defense chemicals on their hypospray without the presence of a reasonable station alert level.
+(  ) 2. The [color=#5b97bc]Chief Medical Officer[/color] permitted the creation of poisonous or explosive mixtures in chemistry without the consent of the [color=#cb0000]Head of Security[/color], or, failing that, the presence of clear and urgent danger to the station.
+(  ) 3. The [color=#5b97bc]Chief Medical Officer[/color] failed to revive revivable corpses.
+
+[color=#1b67a5][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

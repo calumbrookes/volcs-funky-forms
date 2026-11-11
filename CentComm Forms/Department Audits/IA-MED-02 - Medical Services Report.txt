@@ -1,0 +1,35 @@
+# IA-MED-02 Medical Services Report
+[color=#1b67a5]▀█▀░░░ [head=2] Medical Services Report[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#5b97bc]MED-02[/color] [/bold]
+░░░█▀█ [bold] Author: Peyton P Pritchard [/bold] [/color]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Medical Doctor[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Medical Doctor[/color] should be detailed in full within this document.
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#1b67a5][head=3]Medical Services Checklist[/head][/color]
+(  ) 1. At least one defibrillator was not available for use next to or near the main treatment area.
+(  ) 2. [color=#5b97bc]Medbay[/color] was not kept in a hygienic state.
+(  ) 3a. Corpses were left without being placed in body bags or morgue trays.
+(  ) 3b. The Morgue contained revivable corpses.
+(  ) 4. [color=#5b97bc]Doctors[/color] left the Medbay to perform recreational activities while patients required treatment.
+(  ) 5. [color=#5b97bc]Doctors[/color] failed to return the equipment of deceased crewmembers who have been moved to the morgue to their respective departments.
+
+[color=#1b67a5][head=3]Non-Compliant Crew[/head][/color]
+* 
+* 
+
+[color=#1b67a5][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

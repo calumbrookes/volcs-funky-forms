@@ -1,0 +1,32 @@
+# IA-MED-04 Emergency Medical Services Report
+[color=#1b67a5]▀█▀░░░ [head=2] Emergency Services Report[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#5b97bc]MED-04[/color] [/bold]
+░░░█▀█ [bold] Author: Peyton P Pritchard [/bold] [/color]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Paramedic[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Paramedic[/color] should be detailed in full within this document.
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#1b67a5][head=3]Emergency Medical Services Checklist[/head][/color]
+(  ) 1. The [color=#5b97bc]Paramedic[/color] failed to stabilize a patient before bringing them to the [color=#5b97bc]Medical Bay[/color].
+(  ) 2. The [color=#5b97bc]Paramedic[/color] failed to return a corpse unrevivable through defibrillation to the [color=#5b97bc]Medbay[/color] and notify [color=#5b97bc]doctors[/color] of its arrival.
+(  ) 3. The [color=#5b97bc]Paramedic[/color] failed to carry materials capable of aid for all major injury types [italic](Brute, Burn, Toxic, Respiratory)[/italic].
+
+[color=#1b67a5][head=3]Non-Compliant Crew[/head][/color]
+* 
+* 
+
+[color=#1b67a5][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

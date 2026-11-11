@@ -1,0 +1,42 @@
+# IA-MED-00 Medical Audit Cover Sheet
+[color=#1b67a5]▀█▀░░░ [head=2] Department SOP Audit - [color=#5b97bc]Medical[/color][/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#5b97bc]MED-00[/color] [/bold]
+░░░█▀█ [bold] Author: Peyton P Pritchard [/bold] [/color]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the cover sheet for all breaches of SOP related to the [color=#5b97bc]Medical[/color] department.
+
+Any breaches detected by [color=#42a459]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
+
+[color=#1b67a5][head=3]Audit Details[/head][/color]
+Station: XXX
+Shift Duration: 00:00:00
+
+[color=#1b67a5][head=3]Non-Compliant Crew[/head][/color]
+*
+* 
+* 
+* 
+
+[color=#1b67a5][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#1b67a5][italic]This form not valid without the following accompanying forms;
+* IA-MED-01 Chief Medical Officer Assessment
+* IA-MED-02 Medical Services Report
+* IA-MED-03 Chemistry Services Report
+* IA-MED-04 Emergency Medical Services Report
+* IA-MED-05 Psychological Services Report[/color][/italic]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

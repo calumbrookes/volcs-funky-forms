@@ -7,7 +7,7 @@
 
 This document serves as the cover sheet for all breaches of SOP related to the [color=#b18644]Cargo[/color] department.
 
-Any breaches detected by [color=#886e6a]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
+Any breaches detected by [color=#42a459]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
 
 [color=#886e6a][head=3]Audit Details[/head][/color]
 Station: XXX
