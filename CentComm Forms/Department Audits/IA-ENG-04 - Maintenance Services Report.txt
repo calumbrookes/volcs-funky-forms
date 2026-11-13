@@ -1,0 +1,35 @@
+# IA-ENG-04 Maintenance Services Report
+[color=#f39f27]▀█▀░░░ [head=2] Maintenance Services Report[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]ENG-04[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Station Engineers[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Station Engineers[/color] should be detailed in full within this document.
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#f39f27][head=3]Maintenance Services Checklist[/head][/color]
+(  ) 1. [color=#f39f27]Engineers[/color] carried out reconstruction, rebuilding, or personal projects while station repair was necessary.
+(  ) 2. [color=#f39f27]Engineers[/color] failed to report to a hull breach within 15 minutes or failed to ensure that hazardous areas were cordoned off with engineering tape or holobarriers.
+(  ) 3. At least one engineering hardsuit was not available on the station, with exception made for emergencies which require usage of all hardsuits.
+(  ) 4a. The [color=#f39f27]Engineers[/color] took the axe out of a construction zone without an immediate and urgent threat to their life or urgent access to critical locations was necessary
+(  ) 4b. The [color=#f39f27]Engineers[/color] failed to properly return and lock the axe in its case after its usage.
+(  ) 5. The [color=#f39f27]Engineers[/color] failed to provide valid construction permits for any construction projects on station.
+
+[color=#f39f27][head=3]Non-Compliant Crew[/head][/color]
+* 
+* 
+
+[color=#f39f27][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

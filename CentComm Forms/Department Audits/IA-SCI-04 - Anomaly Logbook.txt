@@ -1,0 +1,26 @@
+# IA-SCI-04 Anomaly Logbook
+[color=#be50b2]▀█▀░░░ [head=2] Anomaly Logbook[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]SCI-04[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the cover sheet for all breaches of SOP related to the [color=#be50b2]Science[/color] department.
+
+Any breaches detected by [color=#42a459]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
+
+[color=#be50b2][head=3]Non-Compliant Crew[/head][/color]
+*
+* 
+* 
+* 
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

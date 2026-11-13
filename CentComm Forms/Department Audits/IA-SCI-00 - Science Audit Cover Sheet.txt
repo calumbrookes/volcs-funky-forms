@@ -1,0 +1,44 @@
+# IA-SCI-00 Science Audit Cover Sheet
+[color=#be50b2]▀█▀░░░ [head=2] Department SOP Audit / Science[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]SCI-00[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the cover sheet for all breaches of SOP related to the [color=#be50b2]Science[/color] department.
+
+Any breaches detected by [color=#42a459]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
+
+[color=#be50b2][head=3]Audit Details[/head][/color]
+Station: XXX
+Shift Duration: 00:00:00
+
+[color=#be50b2][head=3]Research Points Generated[/head][/color]
+Points:
+
+[color=#be50b2][head=3]Non-Compliant Crew[/head][/color]
+*
+* 
+* 
+* 
+
+[color=#be50b2][head=3]Report Summary[/head][/color]
+[italic]Detail key points and recommendations from the related forms here.[/italic]
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#be50b2][italic]This form not valid without the following accompanying forms;
+* IA-SCI-01 Research Director Assessment
+* IA-SCI-02 Science Services Report
+* IA-SCI-03 Robotics Services Report
+* IA-SCI-04 Anomaly Logbook (Discretionary)[/color][/italic]
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

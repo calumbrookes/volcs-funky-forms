@@ -1,0 +1,39 @@
+# IA-ENG-02 Electrical Services Report
+[color=#f39f27]▀█▀░░░ [head=2] Electrical Services Report[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]ENG-02[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Station Engineers[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Station Engineers[/color] should be detailed in full within this document.
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#f39f27][head=3]Electrical Services Checklist[/head][/color]
+(  ) 1a. The [color=#f39f27]Engineers[/color] failed to ensure that the Solar Panels were properly wired.
+(  ) 1b. The [color=#f39f27]Engineers[/color] failed to ensure the Anti-matter Engine was prepared.
+(  ) 1c. The [color=#f39f27]Engineers[/color] failed to coordinate a plan to activate more powerful engines for long-term use.
+(  ) 2. The [color=#f39f27]Engineers[/color] failed to maintain the integrity of the station's engines.
+(  ) 3. [color=#f39f27]Engineers[/color] attempted to construct additional engines without approval from the [color=#f39f27]Chief Engineer[/color].
+(  ) 4. [color=#f39f27]Engineers[/color] failed to check on each active engine at least once every 30 minutes.
+(  ) 5. [color=#f39f27]Engineers[/color] failed to constantly monitor the Supermatter Engine while it was under emitter fire.
+(  ) 6. [color=#f39f27]Engineers[/color] failed to maintain the integrity of the station's power network.
+(  ) 7. The [color=#f39f27]Engineers[/color] failed to check on the Central Alarms Computer at least once every 30 minutes.
+(  ) 8. The [color=#f39f27]Engineers[/color] failed to maintain clean & trip-hazard free spaces within associated technical spaces.
+
+[color=#f39f27][head=3]Non-Compliant Crew[/head][/color]
+* 
+* 
+
+[color=#f39f27][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

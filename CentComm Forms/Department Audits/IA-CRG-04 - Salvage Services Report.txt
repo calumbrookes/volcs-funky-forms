@@ -1,15 +1,15 @@
 # IA-CRG-04 Salvage Service Report
-[color=#886e6a]▀█▀░░░ [head=3] Salvage Service Assessment [/head]
-▄█▄▄▀▄ [bold] Report Form: [color=#b18644]CRG-04[/color] [/bold]
-░░░█▀█ [bold] Author: Peyton P Pritchard [/bold] [/color]
+[color=#b18644]▀█▀░░░ [head=3] Salvage Service Assessment [/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]CRG-04[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
 
-[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#b18644][head=3]////////////////////////////////////////////////////[/head][/color]
 
 This document serves as the detail report for breaches of SOP related to the [color=#b18644]Salvage Specialist[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#b18644]Salvage Specialist[/color] should be detailed in full within this document.
 
-[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#b18644][head=3]////////////////////////////////////////////////////[/head][/color]
 
-[color=#886e6a][head=3]Salvage Service Checklist[/head][/color]
+[color=#b18644][head=3]Salvage Service Checklist[/head][/color]
 (  ) 1. 60 sheets of steel, plasma, gold, silver, glass, and uranium were not delivered to the station by 00:30:00 station time.
 (  ) 2. Ores, diamonds, and crystals which have been mined and processed were not distributed to the station. 
 (  ) 3. The [color=#b18644]Salvage Specialist[/color] refused to assist in the rescue of a space-drifting member of the crew.
@@ -21,14 +21,14 @@ This document serves as the detail report for breaches of SOP related to the [co
 (  ) 8. Regular communication on 30 minute intervals were not maintained between the [color=#b18644]Salvage Specialists[/color] and the [color=#b18644]Quartermaster[/color].
 [italic](If marked, detail exact breach here: )[/italic]
 
-[color=#886e6a][head=3]Non-Compliant Crew[/head][/color]
+[color=#b18644][head=3]Non-Compliant Crew[/head][/color]
 * 
 * 
 
-[color=#886e6a][head=3]Report Summary & Comments[/head][/color]
+[color=#b18644][head=3]Report Summary & Comments[/head][/color]
 [italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
 
-[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#b18644][head=3]////////////////////////////////////////////////////[/head][/color]
 
 [italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
 

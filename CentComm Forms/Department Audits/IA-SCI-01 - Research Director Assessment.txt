@@ -1,0 +1,48 @@
+# IA-SCI-01 Research Director Assessment
+[color=#be50b2]▀█▀░░░ [head=2] Research Director Assessment[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]SCI-01[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#be50b2][head=3]Duty Research Director:[/head][/color]
+[italic]RD Name[/italic]
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#be50b2]Research Director[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#be50b2]Research Director[/color] should be detailed in full within this document.
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#be50b2][head=3]Research Director[/head][/color]
+[head=4][color=#008000]GREEN[/color]/[color=#00FFFF]BLUE[/color][/head]
+(  ) G-1. The [color=#be50b2]Research Director[/color] failed to ensure that Research was being done, or failed to complete research by the end of the shift while having been provided materials by [color=#b18644]Cargo[/color].
+(  ) G-3. The [color=#be50b2]Research Director[/color] carried harmful artifacts outside of [color=#be50b2]Science[/color] without it being stored in an artifact container.
+(  ) G-4a. The [color=#be50b2]Research Director[/color] decommissioned the Station AI without the [color=#1b67a5]Captain[/color]'s approval.
+(  ) G-4b. The [color=#be50b2]Research Director[/color] failed to secure a decommissioned AI on an Intellicard for [color=#009100]Central Command[/color] inspection.
+(  ) G-5. The [color=#be50b2]Research Director[/color] changed the Station AI's laws without approval from the [color=#1b67a5]Captain[/color].
+(  ) G-6a. The [color=#be50b2]Research Director[/color] failed to keep an adequate log of all anomalies.
+(  ) G-6b. The [color=#be50b2]Research Director[/color] failed to eliminate anomalies which posed an immediate threat to crewmembers.
+(  ) G-7. The [color=#be50b2]Research Director[/color] failed to ensure that telecommunications were properly maintained.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+(  ) G-1. The [color=#be50b2]Research Director[/color] failed to ensure that Research was being done, or failed to complete research by the end of the shift.
+(  ) R-2. The [color=#be50b2]Research Director[/color] carried a weapon created by the protolathe without approval from the [color=#cb0000]Head Of Security[/color] or carried more than one weapon created by the protolathe.
+(  ) G-3. The [color=#be50b2]Research Director[/color] carried harmful artifacts outside of [color=#be50b2]Science[/color] without it being stored in an artifact container.
+(  ) G-4a. The [color=#be50b2]Research Director[/color] decommissioned the Station AI without the [color=#1b67a5]Captain[/color]'s approval.
+(  ) G-4b. The [color=#be50b2]Research Director[/color] failed to secure a decommissioned AI on an Intellicard for [color=#009100]Central Command[/color] inspection.
+(  ) G-5. The [color=#be50b2]Research Director[/color] changed the Station AI's laws without approval from the [color=#1b67a5]Captain[/color].
+(  ) G-6a. The [color=#be50b2]Research Director[/color] failed to keep an adequate log of all anomalies.
+(  ) G-6b. The [color=#be50b2]Research Director[/color] failed to eliminate anomalies which posed an immediate threat to crewmembers.
+(  ) G-7. The [color=#be50b2]Research Director[/color] failed to ensure that telecommunications was properly maintained.
+
+[color=#be50b2][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#be50b2][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

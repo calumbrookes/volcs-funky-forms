@@ -1,29 +1,33 @@
 # IA-MED-03 Chemical Services Report
-[color=#1b67a5]▀█▀░░░ [head=2] Chemical Services Report[/head]
-▄█▄▄▀▄ [bold] Report Form: [color=#5b97bc]MED-03[/color] [/bold]
-░░░█▀█ [bold] Author: Peyton P Pritchard [/bold] [/color]
+[color=#5b97bc]▀█▀░░░ [head=2] Chemical Services Report[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]MED-03[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
 
-[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#5b97bc][head=3]////////////////////////////////////////////////////[/head][/color]
 
 This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chemist[/color]. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chemist[/color] should be detailed in full within this document.
 
-[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#5b97bc][head=3]////////////////////////////////////////////////////[/head][/color]
 
-[color=#1b67a5][head=3]Chemistry Services Checklist[/head][/color]
+[color=#5b97bc][head=3]Chemistry Services Checklist[/head][/color]
 (  ) 1. The [color=#5b97bc]Chemist[/color] experimented with explosive mixtures.
 (  ) 2. The [color=#5b97bc]Chemist[/color] experimented with poisonous mixtures or narcotics.
 (  ) 3. The [color=#5b97bc]Chemist[/color] produced alcoholic beverages.
-(  ) 4. The [color=#5b97bc]Chemist[/color] failed to provide [color=#5b97bc]Medbay[/color] with medication to treat Brute, Burn, Respiratory, and Toxin damage within 30 minutes.
+(  ) 4. The [color=#5b97bc]Chemist[/color] failed to provide [color=#5b97bc]Medbay[/color] with appropriate medication within 30 minutes of shift start.
+(  ) 4a. Brute medication
+(  ) 4b. Burn medication
+(  ) 4c. Respiratory medication
+(  ) 4d. Toxin medication
 (  ) 5. [color=#5b97bc]Chemistry[/color] was left unattended while [color=#5b97bc]Medbay[/color] was devoid of medication.
 
-[color=#1b67a5][head=3]Non-Compliant Crew[/head][/color]
+[color=#5b97bc][head=3]Non-Compliant Crew[/head][/color]
 * 
 * 
 
-[color=#1b67a5][head=3]Report Summary[/head][/color]
+[color=#5b97bc][head=3]Report Summary[/head][/color]
 [italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
 
-[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#5b97bc][head=3]////////////////////////////////////////////////////[/head][/color]
 
 [italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
 
