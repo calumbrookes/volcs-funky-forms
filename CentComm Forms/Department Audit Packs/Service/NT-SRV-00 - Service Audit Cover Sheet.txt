@@ -1,0 +1,45 @@
+# IA-SRV-00 Service Audit Cover Sheet
+[color=#5aa912]▀█▀░░░ [head=2] Department SOP Audit / Service[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]SRV-00[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#5aa912][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the cover sheet for all breaches of SOP related to the [color=#5aa912]Service[/color] department.
+
+Any breaches detected by [color=#42a459]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
+
+[color=#5aa912][head=3]Audit Details[/head][/color]
+Station: XXX
+Shift Duration: 00:00:00
+
+[color=#5aa912][head=3]Service Metrics[/head][/color]
+Number of Morale Officers:
+
+[color=#5aa912][head=3]Non-Compliant Crew[/head][/color]
+*
+* 
+* 
+* 
+
+[color=#5aa912][head=3]Report Summary[/head][/color]
+[italic]Detail key points and recommendations from the related forms here.[/italic]
+
+[color=#5aa912][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#5aa912][italic]This form not valid without the following accompanying forms;
+* IA-SRV-01 Executive Officer Assessment
+* IA-SRV-02 Catering Services Report
+* IA-SRV-03 Entertainment Services Report
+* IA-SRV-04 Professional Services Report
+* IA-SRV-05 Facilities Management Report[/color][/italic]
+
+[color=#5aa912][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

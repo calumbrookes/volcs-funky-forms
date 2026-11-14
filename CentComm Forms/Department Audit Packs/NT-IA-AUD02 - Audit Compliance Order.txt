@@ -1,0 +1,42 @@
+# NT-IA-AUD02 Audit Compliance Order
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS AN OFFICIAL [color=#cb0000]DIRECTIVE[/color] ISSUED
+            BY A NANOTRASEN INTERNAL AFFAIRS AGENT.[/bold]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION A: ORDER DETAILS[/bold][/head][/color]
+[bold]ISSUED BY: [color=#147e10]Peyton P Pritchard[/color][/bold]
+[bold]SHIFT TIME: [color=#147e10]00:00:00[/color][/bold]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION B: DEPARTMENT[/bold][/head][/color]
+[italic]Select all departments affected by this directive.[/italic]
+( ) Command  
+( ) Security  
+( ) Engineering  
+( ) Medical  
+( ) Science  
+( ) Service  
+( ) Supply  
+( ) Other:
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION C: DIRECTIVE[/bold][/head][/color]
+[bold]INSTRUCTIONS TO BE CARRIED OUT:[/bold]
+[color=#147e10]All staff of listed department to cooperate fully with audit procedures, including considering this request a top priority over other ongoing work.[/color]
+
+[color=#147e10]Refusal to comply with the terms of this order will be considered to be [color=#cb0000][bold]Refusal To Follow A Lawful Order (Class II Criminal Offence)[/color][/bold] and you may be charged repeatedly with this until such a time as your compliance is deemed restored.[/color]
+
+[bold]PRIORITY LEVEL:[/bold]  
+( ) Routine  
+( ) Elevated  
+( ) Urgent  
+( ) Critical (Immediate Compliance Required)
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Noncompliance may constitute a violation of Corporate Regulation 17-D.[/color][/italic]

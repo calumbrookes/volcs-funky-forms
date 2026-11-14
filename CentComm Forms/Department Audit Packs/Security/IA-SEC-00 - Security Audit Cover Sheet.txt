@@ -1,0 +1,44 @@
+# IA-SEC-00 Security Audit Cover Sheet
+[color=#cb0000]▀█▀░░░ [head=2] Department SOP Audit / Security[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]SEC-00[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#cb0000][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the cover sheet for all breaches of SOP related to the [color=#cb0000]Security[/color] department.
+
+Any breaches detected by [color=#42a459]Internal Affairs Agents[/color] should be organized on this cover sheet and detailed further in the audit subforms.
+
+[color=#cb0000][head=3]Audit Details[/head][/color]
+Station: XXX
+Shift Duration: 00:00:00
+
+[color=#cb0000][head=3]Personnel on Duty[/head][/color]
+Patrol Officers:
+
+[color=#cb0000][head=3]Non-Compliant Officers[/head][/color]
+*
+* 
+* 
+* 
+
+[color=#cb0000][head=3]Report Summary[/head][/color]
+[italic]Detail key points and recommendations from the related forms here.[/italic]
+
+[color=#cb0000][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#cb0000][italic]This form not valid without the following accompanying forms;
+* IA-SEC-01 Head of Security Assessment
+* IA-SEC-02 Warden Assessment
+* IA-SEC-03 Investigative Services Report
+* IA-SEC-04 Arrest Procedure Report[/color][/italic]
+
+[color=#cb0000][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+

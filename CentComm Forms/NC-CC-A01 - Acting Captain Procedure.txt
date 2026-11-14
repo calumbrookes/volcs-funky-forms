@@ -1,0 +1,64 @@
+# NT-CC-A01 Acting Captain Procedure
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                              INTERNAL AFFAIRS OFFICE[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A GUIDE TO SWEARING IN AN
+      ACTING CAPTAIN IN ACCORDANCE WITH SPACE LAW[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: EMPLOYEE ASSUMING COMMAND[/bold][/head]
+[bold]NAME:[/bold] [color=#1b67a5]NAMEHERE[/color]
+[bold]JOB TITLE:[/bold] [color=#1b67a5]JOBHERE[/color]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: TERMS AND CONDITIONS[/bold][/head]
+[color=#cb0000][italic]Before Proceeding: Administer Non-Disclosure Agreement Form[/italic][/color]
+[bold]Non-Disclosure Agreement:[/bold] 
+(  ) Already Signed (existing Command/Security staff) 
+(  ) Signed In IAA Presence.
+[bold]Mindshield Agreement:[/bold] 
+(  ) Already Implanted (existing Command/Security staff) 
+(  ) To Be Implanted in presence of IAA.
+─────────────────────────────────────────
+[head=3][bold]SECTION C: SWEARING-IN-PROCEDURE[/bold][/head]
+[color=#cb0000][italic]Before Proceeding: Employee to Read;[/italic][/color]
+
+By signing this form to accept command, you accept the requirement for a Nanotrasen Corporation Mindshield Implant and affirm that you will not tamper, inhibit or remove the device whilst in command.
+
+[color=#cb0000][italic]Before Proceeding: Form to be signed[/italic][/color]
+[color=#cb0000][italic]After signature, read the following aloud;[/italic][/color]
+
+1 - Please raise your right hand.
+2 - Do you swear to uphold Nanotrasen Corporate Legislation?
+3 - Do you swear to protect this station and it's crew?
+4 - Do you swear to faithfully execute the office of Captain, to serve Nanotrasen Corporation and it's associated customers and revenue streams?
+
+[color=#cb0000][italic]Actions upon conclusion;[/italic][/color]
+
+1- To Captain: By the power vested in me by Nanotrasen Corporation, I hereby appoint you acting captain.
+
+2 - Announcement: At shift time [color=#1b67a5]XX:XX:XX[/color], [color=#1b67a5]OLDTITLE NAMEHERE[/color] is hereby affirmed as Acting Captain in the presence of IAA Agent [color=#1b67a5]NAMEHERE[/color].
+
+3 - Fax this signed form to CentComm to inform that an acting captain is present.
+─────────────────────────────────────────
+[head=3][bold]SECTION D: IAA USE ONLY[/bold][/head]
+[italic]Employee signature confirms agreement to Terms and Conditions of promotion.[/italic]
+
+[bold]ISSUED BY: [color=#1b67a5]Peyton P Pritchard[/color][/bold]
+[bold]SHIFT TIME: [color=#1b67a5]00:00:00[/color][/bold]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K.[/color][/italic]
+─────────────────────────────────────────
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                             [bold]- STAMP THEN SIGN BELOW -[/bold]
+
+
+
+

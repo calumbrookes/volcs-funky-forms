@@ -1,0 +1,52 @@
+# IA-SEC-04 Arrest Procedure Report
+[color=#cb0000]▀█▀░░░ [head=2] Arrest Procedure Report[/head]
+▄█▄▄▀▄ [bold] Report Form: [color=#42a459]SEC-04[/color] [/bold]
+░░░█▀█ [bold] Author: [color=#42a459]Peyton P Pritchard[/color] [/bold] [/color]
+
+[color=#cb0000][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Security Officers and Cadets[/color] when making arrests. Breaches of SOP detected by [color=#42a459]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Security Officers and Cadets[/color] should be detailed in full within this document.
+
+[color=#cb0000][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[color=#886e6a][head=3]Arrest Procedure Checklist[/head][/color]
+[head=4][color=#008000]GREEN[/color][/head]
+(  ) G-2. An [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred, with exception made if the suspect refuses to stop.
+(  ) G-3. An [color=#cb0000]officer[/color] failed to attempt to bring a suspect to the Brig without incapacitating or handcuffing them.
+(  ) G-4. An [color=#cb0000]officer[/color] brandished a weapon during a detainment before the suspect became hostile or attempted to flee.
+(  ) G-5. An [color=#cb0000]officer[/color] demanded access to a department during regular patrols without receiving access by the [color=#1b67a5]Head of Personnel[/color].
+(  ) G-6. An  [color=#cb0000]officer[/color] had their weapon drawn during regular patrols.
+(  ) G-7. An [color=#cb0000]officer[/color] attempted to conduct a search without reasonable evidence, suspicion of a crime, or a warrant from the [color=#cb0000]Head of Security[/color] or [color=#1b67a5]Captain[/color].
+(  ) G-8. An [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+(  ) G-9. An [color=#cb0000]officer[/color] was found without an active bodycam.
+
+[head=4][color=#00FFFF]BLUE[/color][/head]
+(  ) G-2. An [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred, with exception made if the suspect refuses to stop.
+(  ) B-2. An [color=#cb0000]officer[/color] carried more than one weapon or piece of equipment from the [color=#cb0000]armory[/color] at once without the presence of a severe emergency.
+(  ) G-4. An [color=#cb0000]officer[/color] brandished a weapon during a detainment before the suspect became hostile or attempted to flee.
+(  ) B-6. An [color=#cb0000]officer[/color] unreasonably applied force in searching a crewmember.
+(  ) G-8. An [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+(  ) G-9. An [color=#cb0000]officer[/color] was found without an active bodycam.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+(  ) B-2. An [color=#cb0000]officer[/color] carried more than one weapon or piece of equipment from the [color=#cb0000]armory[/color] at once.
+(  ) B-6. An [color=#cb0000]officer[/color] unreasonably applied force in searching a crewmember.
+(  ) G-8. An [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+(  ) G-9. An [color=#cb0000]officer[/color] was found without an active bodycam.
+
+[color=#cb0000][head=3]Non-Compliant Officers[/head][/color]
+* 
+* 
+
+[color=#cb0000][head=3]Report Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+
+[color=#cb0000][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[italic]I hereby declare that the information provided in this report is accurate to the best of my knowledge. I understand that this report may be used for internal investigation and occupational safety review.[/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+
