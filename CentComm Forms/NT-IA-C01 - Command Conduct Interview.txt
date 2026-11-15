@@ -1,0 +1,96 @@
+# NT-IA-C01 Command Conduct Interview
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS INTERVIEW FORM IS USED BY A NANOTRASEN REPRESENTATIVE TO FORMALLY DOCUMENT A REVIEW OF COMMAND-LEVEL CONDUCT IN ACCORDANCE WITH [color=#cb0000]CORPORATE REGULATIONS 12-A AND 17-D[/color].[/bold]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION A: INTERVIEW DETAILS[/bold][/head][/color]
+[bold]AGENT/REPRESENTATIVE NAME:[/bold] [color=#1b67a5]Peyton P Pritchard[/color]
+[bold]TIME OF INTERVIEW:[/bold] [color=#1b67a5]00:00:00[/color]
+[bold]STATION:[/bold] [color=#1b67a5]Stationname[/color]
+[bold]INTERVIEW LOCATION:[/bold] [color=#1b67a5]Locationname[/color]
+[bold]WITNESSES PRESENT:[/bold] [color=#1b67a5]Witnessnames[/color]
+[bold]INTERVIEW TYPE:[/bold]
+(  ) Scheduled
+(  ) Ad-Hoc
+(  ) Follow-Up
+[bold]REASON FOR INTERVIEW:[/bold]
+(  ) Alleged Misconduct
+(  ) Performance Concern
+(  ) Clarification of Incident Report
+(  ) Routine Review
+(  ) Other:
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION B: SUBJECT INFORMATION[/bold][/head][/color]
+[bold]SUBJECT NAME:[/bold] [color=#1b67a5]Subjectname[/color]
+[bold]RANK/POSITION:[/bold]
+(  ) Captain                      (  ) Executive Officer
+(  ) Head of Security     (  ) Chief Engineer
+(  ) Research Director  (  ) Chief Medical Officer
+(  ) Acting Command
+(  ) Other:
+[bold]DEPARTMENT:[/bold] [color=#1b67a5]Departmentname[/color]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION C: ALLEGATIONS UNDER REVIEW[/bold][/head][/color]
+[italic]Check all that apply and provide brief context.[/italic]
+(  ) Abuse of Authority / Dereliction of Duty
+(  ) Breach of Corporate Regulations
+(  ) Safety or Security Negligence
+(  ) Crew Contractual Violations
+(  ) Human Rights Violations
+(  ) Resource Mismanagement
+(  ) Communication / Conduct Unbecoming
+(  ) Other:
+
+[bold]SUMMARY OF ALLEGATIONS / TOPICS:[/bold]
+*  [color=#cb0000]Allegations go here[/color]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION D: INTERVIEW RECORD[/bold][/head][/color]
+[italic]Record only the key points of the interview, including major statements and relevant observations.[/italic]
+[bold]SUMMARY OF SUBJECT STATEMENT(S):[/bold]
+*  [color=#cb0000]Interview statements go here[/color]
+*  [color=#cb0000]Interview statements go here[/color]
+
+[bold]OFFICIAL OBSERVATIONS:[/bold]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION E: FACTUAL FINDINGS[/bold][/head][/color]
+[italic]Summarize objective facts established during/around the interview.[/italic]
+[bold]ESTABLISHED FACTS (Chronological):[/bold]
+*  [color=#cb0000]Investigation facts go here[/color]
+*  [color=#cb0000]Investigation facts go here[/color]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION F: CONCLUSIONS & RECOMMENDATIONS[/bold][/head][/color]
+[bold]CONCLUSION:[/bold]
+(  ) Substantiated
+(  ) Partially Substantiated
+(  ) Unsubstantiated
+(  ) Inconclusive
+
+[bold]RECOMMENDATIONS:[/bold]
+(  ) No Action
+(  ) Written Warning (Command File)
+(  ) Temporary Restriction (specify):
+(  ) Mandatory Remedial Training
+(  ) Formal Disciplinary Review (notify Captain)
+(  ) Escalate to Central Command
+(  ) Other:
+─────────────────────────────────────────
+[italic][color=#aaaaaa]I, [color=#1b67a5]Name[/color], certify that this interview record is accurate to the best of my knowledge and collected in accordance with Nanotrasen policy. False statements may constitute perjury under Regulation 7716(c).[/color][/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized review or duplication of this document constitutes grounds for termination.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+# NT-PER-A01 Personnel Transfer
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]      THIS FORM IS USED TO REQUEST OR RECORD CREW
+  TRANSFERS BETWEEN ASSIGNMENTS OR DEPARTMENTS.
+
+[color=#cb0000]ALL TRANSFERS (OF ANY KIND) ARE SUBJECT TO APPROVAL
+      BY THE EXECUTIVE OFFICER AND DEPARTMENT HEADS[/bold][/color]
+─────────────────────────────────────────
+[color=#3e5fb0][head=3][bold]SECTION A – PERSONNEL DETAILS[/bold][/head][/color]
+[bold]NAME:[/bold] [color=#1b67a5]NAMEHERE[/color]
+[bold]CURRENT JOB / ROLE:[/bold] [color=#1b67a5]ROLEHERE[/color]
+[bold]CURRENT DEPARTMENT:[/bold] [color=#1b67a5]DEPARTMENTHERE[/color]
+─────────────────────────────────────────
+[color=#3e5fb0][head=3][bold]SECTION B – REQUEST TYPE[/bold][/head][/color]
+[italic][color=#cb0000]Contract Terminations - use form NT-PER-AXX[/color][/italic]
+[italic][color=#cb0000]Demotions - use form NT-PER-AXX[/color][/italic]
+[italic][color=#cb0000]Command Promotions - use form NT-PER-AXX[/color][/italic]
+
+[italic][color=#aaaaaa]Select one primary action.[/color][/italic]
+(  ) HIRING / ONBOARDING  
+(  ) NON-COMMAND PROMOTION
+(  ) TRANSFER WITHIN SAME DEPARTMENT
+(  ) ADMINISTRATIVE CORRECTION 
+(  ) OTHER: [color=#1b67a5]N/A[/color]
+─────────────────────────────────────────
+[color=#3e5fb0][head=3][bold]SECTION C – PROPOSED CHANGE[/bold][/head][/color]
+[italic][color=#aaaaaa]If staff are being terminated, enter N/A.[/color][/italic]
+[bold]NEW ROLE (if applicable):[/bold] [color=#1b67a5]ROLEHERE[/color]
+[bold]NEW DEPARTMENT (if applicable):[/bold] [color=#1b67a5]DEPARTMENTHERE[/color]
+[bold]EFFECTIVE TIME:[/bold] [color=#1b67a5]00:00:00[/color]
+─────────────────────────────────────────
+[color=#3e5fb0][head=3][bold]SECTION D – JUSTIFICATION[/bold][/head][/color]
+[italic][color=#aaaaaa]Provide clear, factual reasoning. Reference performance or operational needs.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Submission of this form does not guarantee approval. All actions must comply with NanoTrasen corporate policy.[/italic][/color]
+
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized review or duplication of this document constitutes grounds for termination.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]
+
+
+
+
+
+
+

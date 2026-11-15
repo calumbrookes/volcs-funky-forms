@@ -1,0 +1,54 @@
+# NT-PER-A02 Access Authorization Request
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST ADDITIONAL ACCESS TO RESTRICTED AREAS. ALL REQUESTS ARE SUBJECT TO PERSONNEL REVIEW AND SECURITY APPROVAL.[/bold]
+─────────────────────────────────────────
+[color=#3e5fb0][head=3][bold]SECTION A – PERSONNEL DETAILS[/bold][/head][/color]
+[bold]NAME:[/bold] [color=#1b67a5]NAMEHERE[/color]
+[bold]CURRENT JOB / ROLE:[/bold] [color=#1b67a5]ROLEHERE[/color]
+[bold]CURRENT DEPARTMENT:[/bold] [color=#1b67a5]DEPARTMENTHERE[/color]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – REQUESTED ACCESS GROUPS[/bold][/head]
+[italic][color=#aaaaaa]Check all that apply.[/color][/italic]
+(  ) ENGINEERING
+(  ) MEDICAL
+(  ) RESEARCH
+(  ) SECURITY
+(  ) CARGO
+(  ) SERVICE
+(  ) BRIDGE / COMMAND
+(  ) EVA / EXTERNAL ACCESS  
+(  ) ARMORY (RESTRICTED)  
+(  ) AI CORE / SATELLITES  
+(  ) OTHER (SPECIFY): ______________________
+─────────────────────────────────────────
+[head=3][bold]SECTION C – ACCESS DURATION[/bold][/head]
+[italic][color=#aaaaaa]Choose one.[/color][/italic]
+(  ) PERMANENT ACCESS
+(  ) TEMPORARY/EMERGENCY ACCESS
+─────────────────────────────────────────
+[head=3][bold]SECTION D – OPERATIONAL JUSTIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Explain the operational need for expanded access.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]NOTICE: ALL departmental access requests require department head approval via stamp and signature. Unauthorized access or misuse of granted permissions may result in immediate revocation and disciplinary action.[/italic][/color]
+
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized review or duplication of this document constitutes grounds for termination.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]
+
+
+
+
+
+
+

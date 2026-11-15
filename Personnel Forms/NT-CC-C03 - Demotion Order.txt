@@ -1,0 +1,52 @@
+# NT-IA-C03 Demotion Order
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+     [bold]THIS DOCUMENT SERVES AS AN OFFICIAL [color=#cb0000]DEMOTION
+     ORDER[/color], CLASSIFIED AS A [color=#cb0000]CLASS II PUNITIVE MEASURE
+                    [/color] UNDER CENTRAL COMMAND POLICY.[/bold]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION A: EMPLOYEE INFORMATION[/bold][/head][/color]
+[bold]NAME:[/bold] [color=#1b67a5]NAMEHERE[/color]
+[bold]JOB TITLE:[/bold] [color=#1b67a5]JOBHERE[/color]
+[bold]DEPARTMENT:[/bold] [color=#1b67a5]DEPARTMENTHERE[/color]
+[bold]SHIFT TIME:[/bold] [color=#1b67a5]00:00:00[/color]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION B: REASON FOR DEMOTION[/bold][/head][/color]
+[bold]CATEGORY:[/bold]  
+(  ) Conduct Failure  
+(  ) Performance Deficiency  
+(  ) Procedural / Regulatory Violation  
+(  ) Safety Negligence  
+(  ) Other:
+[bold]OFFICIAL VERSION OF EVENTS:[/bold]
+[color=#1b67a5]DESCRIBE CIRCUMSTANCES OF DEMOTION HERE[/color]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION C: NEW ASSIGNED ROLE[/bold][/head][/color]
+[bold]NEW POSITION:[/bold] [color=#1b67a5]ROLEHERE[/color]
+[bold]DEPARTMENT (if changed):[/bold] [color=#1b67a5]DEPARTMENTHERE[/color]
+[bold]AUTHORITY RESTRICTIONS (if any):[/bold]
+*  [color=#1b67a5]RESTRICTIONSHERE[/color]
+─────────────────────────────────────────
+[color=#147e10][head=3][bold]SECTION D: DEMOTION AUTHORITY[/bold][/head][/color]
+[italic]Employee acknowledgment confirms receipt of this order, not agreement.[/italic]
+[bold]ORDER ISSUED BY:[/bold] [color=#1b67a5]NAMEHERE[/color]
+[bold]DATE/TIME:[/bold] [color=#1b67a5]00:00:00[/color]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized review or duplication of this document constitutes grounds for termination.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]
+
+
+
+
+
+
+

@@ -17,10 +17,10 @@
 [bold]TIME SENT:[/bold]
 [italic][color=#1b67a5]00:00:00[/color] [/italic]
 [bold]PRIORITY LEVEL:[/bold]  
-( ) Routine  
-( ) Elevated  
-( ) Urgent  
-( ) Crisis (Immediate CC Attention Required)
+(  ) Routine  
+(  ) Elevated  
+(  ) Urgent  
+(  ) Crisis (Immediate CC Attention Required)
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: MESSAGE CONTENT[/bold][/head]
 [color=#1b67a5][bold]SUBJECT:[/bold][/color]
@@ -28,3 +28,11 @@
 [italic][color=#1b67a5]Sample[/color][/italic]
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]Transmission logged under Central Command Communications Protocol 5-C.[/color][/italic]
+
+                                 [bold]- STAMP/SIGN BELOW -[/bold]
+
+
+
+
+
+
